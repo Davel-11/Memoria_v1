@@ -1,0 +1,33 @@
+#warp{
+	height: auto;
+	width: 900px;
+	margin: 20px auto;
+	padding: 15px ;	
+	border: 2px solid #DBDBDB;
+	background:  white;
+}
+
+
+#wrap2{
+	height: auto;
+	width: 800px;
+        
+	margin: 20px auto;
+	padding: 15px ;	
+        
+	
+	background:  white;
+        
+}
+
+#table_memoria{
+    text-align: center;
+    
+}
+
+
+
+body {
+      background: url("cielo.jpg") no-repeat fixed 100% 100%;
+            
+}
